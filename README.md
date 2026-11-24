@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
+## Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0951-flip-equivalent-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0951-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0951-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
