@@ -24,30 +24,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
