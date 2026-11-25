@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [3934-smallest-unique-subarray](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3934-smallest-unique-subarray](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0113-path-sum-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
