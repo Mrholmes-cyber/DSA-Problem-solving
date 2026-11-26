@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
