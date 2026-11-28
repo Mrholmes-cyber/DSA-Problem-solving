@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3934-smallest-unique-subarray](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mrholmes-cyber/DSA-Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
